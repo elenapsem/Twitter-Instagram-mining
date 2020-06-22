@@ -9,7 +9,7 @@ collection = db['collection']
 loader = Instaloader()
 NUM_POSTS = 10
 
-loader.login('iro_tsantalidou', 'Just_Do_It!1996')
+loader.login('username', '*****')
 DetectorFactory.seed = 0
 
 def get_hashtags_posts(query):
